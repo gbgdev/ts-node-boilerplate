@@ -1,6 +1,9 @@
 # Dependency directories
 node_modules/
 
+# Log files
+yarn-error.log
+
 # VSCode preferences
 .vscode/
 
