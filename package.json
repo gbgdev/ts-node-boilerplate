@@ -1,0 +1,11 @@
+{
+  "name": "ts-node-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gbgdev/ts-node-boilerplate.git",
+  "author": "GG <gbgdev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node": "^16.13.2"
+  }
+}
