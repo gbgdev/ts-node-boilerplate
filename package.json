@@ -6,6 +6,11 @@
   "author": "GG <gbgdev@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "node": "^16.13.2"
+    "node": "16.13.2"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "@tsconfig/node16": "^1.0.2",
+    "typescript": "^4.6.2"
   }
 }
